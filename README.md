@@ -10,4 +10,4 @@ This is an experiment to see if I could write a `switch` statement in a React-y 
 <Switch>
 ```
 
-Check out the tests for the `Switch` component for more examples.
+Check out the [tests](src/components/Switch/Switch.test.tsx) for the `Switch` component for more examples.
