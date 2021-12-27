@@ -6,7 +6,8 @@ This is an experiment to see if I could write a `switch` statement in a React-y 
 
 ```
 <Switch expression="foo">
-  <Case clause="foo>I render!</Case>
+  <Case clause="foo">I render!</Case>
+  <Case clause="bar">I don't render!</Case>
 <Switch>
 ```
 
