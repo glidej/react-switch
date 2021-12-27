@@ -12,3 +12,8 @@ This is an experiment to see if I could write a `switch` statement in a React-y 
 ```
 
 Check out the [tests](src/components/Switch/Switch.test.tsx) for the `Switch` component for more examples.
+
+## TODO
+- fallthrough behavior
+- support for non-string expressions
+- improved typescript definitions; seems like an ideal time to bring a generic into the mix
